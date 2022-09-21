@@ -1,0 +1,37 @@
+[
+    {
+        "customer_id": "00001",
+        "username": "milindu",
+        "email": "ex@mail.com",
+        "telephone_number": "75245698",
+        "password": "c7d9eb0d2f54f8c1177976cf2e6ee6d5"
+    },
+    {
+        "customer_id": "00006",
+        "username": "Gehan",
+        "email": "gehan@mail.com",
+        "telephone_number": "75245698",
+        "password": "e5204b0d6a989dce776ca7f69c106485"
+    },
+    {
+        "customer_id": "00007",
+        "username": "pawan",
+        "email": "pawan@mail.com",
+        "telephone_number": "75245698",
+        "password": "40eb95572d967a62183292ef5f78bf9a"
+    },
+    {
+        "customer_id": "00008",
+        "username": "kamal",
+        "email": "kamal@mail.com",
+        "telephone_number": "112525856",
+        "password": "aa63b0d5d950361c05012235ab520512"
+    },
+    {
+        "customer_id": "00009",
+        "username": "kamal2",
+        "email": "kamal2@mail.com",
+        "telephone_number": "112332625",
+        "password": "593e79eea9d9f91b594dc15886779539"
+    }
+]
